@@ -1,4 +1,4 @@
-## Am Marcel NIYITEGEKA from Rwanda a Full-Stack Software Engineer. I am open to jobs either Fullstack Web Development or Backend development and Mobile app development.
+## Am Marcel NIYITEGEKA from Rwanda a Full-Stack Software Engineer.
 
 - 🔭 I’m currently working on building more projects so as to be able to showcase my skills.
 - 🌱 I’m currently brushing up my React.js and Angular js skills
